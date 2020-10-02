@@ -18,6 +18,10 @@ Annotation xml
 			<xmax>312</xmax>
 			<ymax>125</ymax>
 		</bndbox>
+		
+Image with Bounding Box
+
+![bb](https://github.com/epicure24/ObjectDetection-ComputerVision/blob/main/Currency_Dataset/index.png)
 
 Currency_Dataset Folder - contains 414 images and annotations file of Indian currencies. I have manually collected them from the internet and created bounding box around them using labelImg annotation tool.
 
