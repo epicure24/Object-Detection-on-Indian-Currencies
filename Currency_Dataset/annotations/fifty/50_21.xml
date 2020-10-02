@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fifty</folder>
+	<filename>50_21.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/fifty/50_21.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>232</width>
+		<height>217</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fifty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>26</ymin>
+			<xmax>182</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+</annotation>

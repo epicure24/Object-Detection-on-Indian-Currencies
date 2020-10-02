@@ -1,0 +1,26 @@
+<annotation>
+	<folder>twoHundred</folder>
+	<filename>200_17.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/twoHundred/200_17.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twoHundred</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>25</ymin>
+			<xmax>222</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

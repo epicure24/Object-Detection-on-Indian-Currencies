@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ten</folder>
+	<filename>10_15.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/ten/10_15.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>332</width>
+		<height>152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>23</ymin>
+			<xmax>301</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

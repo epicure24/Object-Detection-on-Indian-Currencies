@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fiveHundred</folder>
+	<filename>500_29.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/fiveHundred/500_29.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fiveHundred</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>17</ymin>
+			<xmax>226</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

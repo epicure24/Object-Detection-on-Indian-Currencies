@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hundred</folder>
+	<filename>100_34.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/hundred/100_34.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hundred</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>18</ymin>
+			<xmax>211</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

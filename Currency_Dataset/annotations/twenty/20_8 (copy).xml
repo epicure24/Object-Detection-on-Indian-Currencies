@@ -1,0 +1,26 @@
+<annotation>
+	<folder>twenty</folder>
+	<filename>20_8.jpeg</filename>
+	<path>/home/peepstake/Documents/SHWETA/Currency_Images/twenty/20_8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twenty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>19</ymin>
+			<xmax>208</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>
