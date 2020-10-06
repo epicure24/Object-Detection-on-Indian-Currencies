@@ -1,4 +1,5 @@
- # ObjectDetectionClassifierRegressor  - Custom Object Detection Model from Scratch using ResNet34
+ # Custom Object Detection Model from Scratch using ResNet34 and Xception 
+ 
 It is a pytorch notebook that detects the indian currencies of Rs. 10, 20, 50, 100, 200 , 500 and 2000 and creates a bounding box around them. I have used ResNet34 model and trained it with images along with their annotations xml file and their class names. 
 
 500 Rs Image
