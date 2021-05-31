@@ -22,3 +22,23 @@ Image with Bounding Box
 Currency_Dataset Folder - contains 414 images and annotations file of Indian currencies. I have manually collected them from the internet and created bounding box around them using labelImg annotation tool.
 
 Result - model is not that perfect because 400 images are very less. But it will give you an idea how to make such model from scratch if you don't want to use YOLO or TensorFlow Object Detection API. Dataset with more than 10,000 images will do the work I guess.
+
+## ANNOTATION
+
+I have manually annotated the images using **labelImg** annotation tool.
+
+## STEPS TO DOWNLOAD on Ubuntu
+
+sudo apt-get install pyqt5-dev-tools
+
+sudo pip install lxml
+
+Now clone the [labelImg GitHub repository](https://github.com/tzutalin/labelImg) on your machine or download the zip file here and extract.
+
+cd into the labelImg directory cd labelImg-master
+
+In your terminal type make qt5py3
+
+That’s it. Now you can Run the python labelImg.py to run the labelImg.
+
+For other OS, [refer to this article](https://mlnotesblog.wordpress.com/2017/12/16/how-to-install-labelimg-in-ubuntu-16-04/)
